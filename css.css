@@ -366,6 +366,24 @@ p {
     background-image: url('img/https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Иконка_письма_%28ei%29.svg/1200px-Иконка_письма_%28ei%29.svg.png');
 }
 
+.VK {
+ background-image: url ("https://www.sushigood.ru/image/vk.png"); 
+}
+
+.VK1 {
+ height: 35px;
+ width: 20px;
+}
+ 
+.Steam {
+ background-image: url ("https://free-png.ru/wp-content/uploads/2021/08/free-png.ru-8.png");  
+}
+
+ .Steam1 {
+ height: 50px;
+ width: 20px;  
+}
+
 ul {
     padding-left: 40px;
     margin-top: 1em;
